@@ -1,6 +1,9 @@
 # Yakuake-Qogir-Materia-Dark
 Yakuake skin based on Materia Dark made by Alexey Varfolomeev to be compatible with the Qogir theme on Plasma.
 
+Materia Dark:
+https://github.com/PapirusDevelopmentTeam/materia-kde
+
 Installation:
 
 Open Yakuake and go to Configure Yakuake....
